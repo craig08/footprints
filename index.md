@@ -9,6 +9,9 @@ Now working as a senior product developer at Cloud Service Team in Synology Inc.
 - Solid skills in linux system programming, C/C++, python, shell scripting
 - Experience in designing and implementing SDK for embedded system
 
+[![Github](logo/GitHub-Mark-Light-32px.png)](https://github.com/craig08)
+[![LinkedIn](logo/In-2CRev-34px-R.png)](https://www.linkedin.com/in/chungyuchi/)
+
 ## My footprints on the Internet
 
 ### Mails about [Ceph](https://ceph.com/)
