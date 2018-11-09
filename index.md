@@ -31,7 +31,7 @@ Now working as a senior product developer at Cloud Service Team in Synology Inc.
 ### Open Sources Commits
 
 - ceph/ceph: [ceph-disk prepare get wrong group name in bluestore](https://tracker.ceph.com/issues/18954)
-- digitalocean/ceph_exporter: [osd: fix parsing invalid json produced by Ceph after 10.2.5 when OSD is out](https://github.com/digitalocean/ceph_exporter/commit/74439767fb9b91b4c540c9db02942099385c224f)
+- digitalocean/ceph_exporter: [osd: fix parsing invalid json produced by Ceph ...](https://github.com/digitalocean/ceph_exporter/commit/74439767fb9b91b4c540c9db02942099385c224f)
 - digitalocean/ceph_exporter: [health: add slow requests](https://github.com/digitalocean/ceph_exporter/commit/fe7675050bbd4ecab7738b69fdc3bb4d4257fa1a)
 - digitalocean/ceph_exporter: [health: add scrubbing and deep-scrubbing pgs](https://github.com/digitalocean/ceph_exporter/commit/71563b12931f9df6034acb47136698a6ff6b1627)
 
