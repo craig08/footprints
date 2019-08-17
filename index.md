@@ -2,12 +2,14 @@
 
 ## Things about Chung-Yu (Craig) Chi
 
-Now working as a senior product developer at Cloud Service Team in Synology Inc.
+Currently a master's student studying in CS department of Univ of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform.
+
+I have -
 
 - Enthusiasm for building and operating large scale cloud platform
-- Expertise in Ceph storage cluster, OpenStack, and Docker
-- Solid skills in linux system programming, C/C++, python, shell scripting
-- Experience in designing and implementing SDK for embedded system
+- Experience of designing, analyzing, and implementing distributed cloud file systems
+- Expertise in OpenStack, Docker, and Ceph storage cluster
+- Solid skills in linux system programming, C/C++, golang, python, shell scripting
 
 [![Github](logo/GitHub-Mark-Light-32px.png)](https://github.com/craig08)
 [![LinkedIn](logo/In-2CRev-34px-R.png)](https://www.linkedin.com/in/chungyuchi/)
