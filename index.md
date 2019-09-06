@@ -8,7 +8,7 @@ I have -
 
 - Enthusiasm for building and operating large scale cloud platform
 - Experience of designing, analyzing, and implementing distributed cloud file systems
-- Interested in analyzing and optimizing systems performance of complex applications
+- Interest in analyzing and optimizing systems performance of complex applications
 - Expertise in OpenStack, Docker, and Ceph storage cluster
 - Solid skills in linux system programming, C/C++, Go, python, shell scripting
 
