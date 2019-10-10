@@ -1,8 +1,6 @@
-> The more you give, the more you receive.
+## Chung-Yu (Craig) Chi
 
-## Things about Chung-Yu (Craig) Chi
-
-Currently, a master's student studying in CS department of Univ of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform and [Synology Hybrid Share](https://nascompares.com/2019/09/04/synology-nas-2020-and-dsm-7-0-in-berlin/) (please search `Hybrid Share` in this page).
+Currently, a master's student studying in CS department of the University of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform and [Synology Hybrid Share](https://www.servethehome.com/synology-outlines-2020-strategy-in-nyc/#attachment_37917).
 
 I have -
 
@@ -15,7 +13,16 @@ I have -
 [![Github](logo/GitHub-Mark-Light-32px.png)](https://github.com/craig08)
 [![LinkedIn](logo/In-2CRev-34px-R.png)](https://www.linkedin.com/in/chungyuchi/)
 
+This is my favorite sentence:
+
+> The more you give, the more you receive.
+
 ## My footprints on the Internet
+
+### My Most Forked or Starred Projects
+
+- [parse_smaps](https://github.com/craig08/parse_smaps): Handy Python script to parse Linux `smaps` file into human readable format.
+- [MoFREAK_Hardware](https://github.com/craig08/MoFREAK_Hardware): A hardware-friendly real-time human action recognition system.
 
 ### Mails about [Ceph](https://ceph.com/)
 
