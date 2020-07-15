@@ -1,14 +1,14 @@
 ## Chung-Yu (Craig) Chi
 
-Currently, a master's student studying in CS department of the University of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform and [Synology Hybrid Share](https://www.servethehome.com/synology-outlines-2020-strategy-in-nyc/#attachment_37917).
+Currently, a Software Engineering Intern at [![Google](https://avatars1.githubusercontent.com/u/1342004?s=30&v=5)](https://www.google.com/) and a master's student studying in CS department of the University of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform and [Synology Hybrid Share](https://www.servethehome.com/synology-outlines-2020-strategy-in-nyc/#attachment_37917).
 
 I have -
 
+- Solid skills in C/C++, Go, python, shell scripting, and Linux system programming
+- Expertise in cloud computing, especially Docker, OpenStack, and Ceph storage cluster
+- Interest in analyzing and optimizing systems performance of complex applications
 - Enthusiasm for building and operating large scale cloud platform
 - Experience of designing, analyzing, and implementing distributed cloud file systems
-- Interest in analyzing and optimizing systems performance of complex applications
-- Expertise in OpenStack, Docker, and Ceph storage cluster
-- Solid skills in linux system programming, C/C++, Go, python, shell scripting
 
 [![Github](logo/GitHub-Mark-Light-32px.png)](https://github.com/craig08)
 [![LinkedIn](logo/In-2CRev-34px-R.png)](https://www.linkedin.com/in/chungyuchi/)
@@ -18,6 +18,12 @@ This is my favorite sentence:
 > The more you give, the more you receive.
 
 ## My footprints on the Internet
+
+### Internship Project
+
+- [gVisor at Google](https://gvisor.dev): An application kernel for containers that provides efficient defense-in-depth security.
+  - Develop highly-concurrent Filesystem in Userspace (FUSE) kernel with Go.
+  - Design an original integration test framework for supported Linux file operation system calls.
 
 ### My Most Forked or Starred Projects
 
@@ -40,6 +46,7 @@ This is my favorite sentence:
 
 ### Open Sources Commits
 
+- libfuse/libfuse: [docs: Replace `mesonconf` with `meson configure`](https://github.com/libfuse/libfuse/commit/032db1ab298d62c4d0c5be1f9fb2df299aec2346)
 - ceph/ceph: [ceph-disk prepare get wrong group name in bluestore](https://tracker.ceph.com/issues/18954)
 - digitalocean/ceph_exporter: [osd: fix parsing invalid json produced by Ceph ...](https://github.com/digitalocean/ceph_exporter/commit/74439767fb9b91b4c540c9db02942099385c224f)
 - digitalocean/ceph_exporter: [health: add slow requests](https://github.com/digitalocean/ceph_exporter/commit/fe7675050bbd4ecab7738b69fdc3bb4d4257fa1a)
