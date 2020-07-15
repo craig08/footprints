@@ -1,6 +1,6 @@
 ## Chung-Yu (Craig) Chi
 
-Currently, a Software Engineering Intern at [![Google](https://avatars1.githubusercontent.com/u/1342004?s=30&v=5)](https://www.google.com/) and a master's student studying in CS department of the University of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform and [Synology Hybrid Share](https://www.servethehome.com/synology-outlines-2020-strategy-in-nyc/#attachment_37917).
+Currently, a Software Engineering Intern at [![Google](https://avatars1.githubusercontent.com/u/1342004?s=20&v=5)](https://www.google.com/) and a master's student major in CS at the University of California, Irvine. Before this, I was a senior product developer at Cloud Service Team in [Synology Inc., Taipei](https://www.synology.com/en-global), and also one of the creators of [Synology C2](https://c2.synology.com/en-us) cloud platform and [Synology Hybrid Share](https://www.servethehome.com/synology-outlines-2020-strategy-in-nyc/#attachment_37917).
 
 I have -
 
